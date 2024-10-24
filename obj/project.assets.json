@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\renwi\\Desktop\\CsharpProjects\\Forest_OOP\\Forest_OOP.csproj",
+      "projectUniqueName": "C:\\Users\\renwi\\Desktop\\CsharpProjects\\Forest_OOP__No_1\\Forest_OOP.csproj",
       "projectName": "Forest_OOP",
-      "projectPath": "C:\\Users\\renwi\\Desktop\\CsharpProjects\\Forest_OOP\\Forest_OOP.csproj",
+      "projectPath": "C:\\Users\\renwi\\Desktop\\CsharpProjects\\Forest_OOP__No_1\\Forest_OOP.csproj",
       "packagesPath": "C:\\Users\\renwi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\renwi\\Desktop\\CsharpProjects\\Forest_OOP\\obj\\",
+      "outputPath": "C:\\Users\\renwi\\Desktop\\CsharpProjects\\Forest_OOP__No_1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\renwi\\AppData\\Roaming\\NuGet\\NuGet.Config",
